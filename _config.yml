@@ -4,7 +4,7 @@ title: Conceptos de Python y R
 author:
   name: GitHub User
   email: sergio.sanes@udea.edu.co
-
+show_downloads: true
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
@@ -13,4 +13,5 @@ description: >
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
+remote_theme: Mundana
