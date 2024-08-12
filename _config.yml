@@ -13,4 +13,4 @@ description: >
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: jekyll-theme-merlot
+theme: jekyll-theme-architect
