@@ -1,1 +1,18 @@
-theme: jekyll-theme-dinky
+# theme: jekyll-theme-dinky
+
+title: Conceptos de Python y R
+author:
+  name: GitHub User
+  email: sergio.sanes@udea.edu.co
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+
+# Build settings
+
+# If you clone the Minima repo and build locally, use this setting.
+theme: minima
